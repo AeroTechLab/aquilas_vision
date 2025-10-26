@@ -5,3 +5,13 @@
 edgeai-benchmark/tools/*
 edgeai-benchmark/work_dirs/modelartifcats/*
 edgeai-modelmaker/data/projects/*
+
+__pycache__
+examples/jupyter_notebooks/.ipynb_checkpoints/
+
+build
+bin
+lib
+model-artifacts
+models
+tools
