@@ -27,3 +27,4 @@ class ModelConfig:
     ARCHITECTURE = 'yolov9'
     PRETRAINED = True
     FLOAT8_FILTER_EXCLUDE = ['detect', 'cv2', 'cv3', 'dfl']
+
