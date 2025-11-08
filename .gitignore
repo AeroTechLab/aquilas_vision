@@ -24,7 +24,7 @@ model-artifacts
 models
 tools
 
-datasets/coco/              
+datasets/
 models/**/ptq_models/       
 models/**/qat_models/       
 models/**/pruning_models/   
